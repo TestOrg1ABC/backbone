@@ -22,7 +22,7 @@ https://github.com/jashkenas/backbone/issues
 Backbone is an open-sourced component of DocumentCloud:
 https://github.com/documentcloud
 
-Many thanks to our contributors:
+Many thanks to our contributors
 https://github.com/jashkenas/backbone/graphs/contributors
 
 Special thanks to Robert Kieffer for the original philosophy behind Backbone.
